@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AustinMusuya
 - 👀 I’m interested in programming projects
-- Well-versed in C#, java, python
+- Well-versed in C#, java, python, javascript, php
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me amusuya57@gmail.com
 
