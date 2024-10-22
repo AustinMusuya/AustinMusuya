@@ -1,7 +1,7 @@
-![Masterhead](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+![Masterhead](https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47y9ycrpbevctr2wzjlplv4tkixge4p5eafpkju6kd&ep=v1_gifs_related&rid=200w.webp&ct=g)
 <h1 align="center">Hi 👋, I'm Austin Musuya</h1>
 <h3 align="center">An Experienced Back-end Developer from Nairobi, Kenya</h3>
-<img align="right" width="400" alt="Coding" src="https://media4.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif">
+<img align="right" width="400" alt="Coding" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47sm7lczd5f96hjp1bx3noxu13tfitqy06bt0qyiq0&ep=v1_gifs_related&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinmusuya&label=Profile%20views&color=0e75b6&style=flat" alt="austinmusuya" /> </p>
 
