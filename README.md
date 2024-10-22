@@ -1,7 +1,7 @@
-[!Masterhead](https://media4.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.webp?cid=790b7611vycxe5k8mnhipaai71h37y9jmeseomqk1sj009xs&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+![Masterhead](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 <h1 align="center">Hi 👋, I'm Austin Musuya</h1>
 <h3 align="center">An Experienced Back-end Developer from Nairobi, Kenya</h3>
-<img align="right" width="400" alt="Coding" src="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii">
+<img align="right" width="400" alt="Coding" src="https://media4.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinmusuya&label=Profile%20views&color=0e75b6&style=flat" alt="austinmusuya" /> </p>
 
