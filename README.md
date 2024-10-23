@@ -1,4 +1,4 @@
-![Masterhead](https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47y9ycrpbevctr2wzjlplv4tkixge4p5eafpkju6kd&ep=v1_gifs_related&rid=200w.webp&ct=g)
+<br/>
 <h1 align="center">Hi 👋, I'm Austin Musuya</h1>
 <h3 align="center">An Experienced Back-end Developer from Nairobi, Kenya</h3>
 <img align="center" width="1000" alt="Coding" src="https://media4.giphy.com/media/zXmbOaTpbY6mA/100.webp?cid=790b7611cqrwb9ezqkqg5xe7dyb21150eebpphj5gf5uigzv&ep=v1_gifs_search&rid=100.webp&ct=g">
