@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing](https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing)
 
-- ⚡ Fun fact **Code, Sleep, Eat, Repeat!**
+- ⚡ Fun fact:  **Kenya's tech powerhouse, Nairobi, often dubbed Africa’s "Silicon Savannah," is home to innovations like M-Pesa, the mobile money game-changer, and is a buzzing hub for fintech, healthtech, and agritech startups. 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
