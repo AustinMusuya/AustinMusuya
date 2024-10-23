@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Flask Blog Site](https://github.com/AustinMusuya/FlaskBlogSite)
 
-- 👨‍💻 All of my projects are available at [austinmusuya.com](austinmusuya.com)
+- 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
 - 💬 Ask me about **Node.js, Express.js, Axios**
 
