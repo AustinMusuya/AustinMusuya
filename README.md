@@ -1,6 +1,9 @@
 <br/>
-<h1 align="center">Hi 👋, I'm Austin Musuya</h1>
-<h3 align="center">An Experienced Back-end Developer from Nairobi, Kenya</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  I'm Austin Musuya</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Back-End+Developer;Transforming%20Ideas%20To%20Reality+🔧&center=true&width=500&height=50&color=00FF00"></a>
+</p>
+<h3 align="center"><em>Ideate, Build, Repeat</em></h3>
 <img align="center" width="1000" alt="Coding" src="https://media4.giphy.com/media/zXmbOaTpbY6mA/100.webp?cid=790b7611cqrwb9ezqkqg5xe7dyb21150eebpphj5gf5uigzv&ep=v1_gifs_search&rid=100.webp&ct=g">
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinmusuya&label=Profile%20views&color=0e75b6&style=flat" alt="austinmusuya" /> </p>
