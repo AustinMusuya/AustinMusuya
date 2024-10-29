@@ -1,5 +1,5 @@
 <br/>
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  I'm Austin Musuya</h2>
+<h2 align="center">Hi, I'm Austin Musuya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Back-End+Developer;Transforming%20Ideas%20To%20Reality+🔧&center=true&width=500&height=50&color=00FF00"></a>
 </h3>
