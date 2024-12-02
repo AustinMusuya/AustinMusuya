@@ -5,7 +5,7 @@
 </h3>
 
 <img align="center" width="1000" alt="Coding" src="https://media4.giphy.com/media/zXmbOaTpbY6mA/100.webp?cid=790b7611cqrwb9ezqkqg5xe7dyb21150eebpphj5gf5uigzv&ep=v1_gifs_search&rid=100.webp&ct=g">
-<h4 align="center"><em>Ideate, Believe, Repeat</em></h4>
+<h4 align="center"><em>Ideate, Believe, Build, Repeat</em></h4>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinmusuya&label=Profile%20views&color=0e75b6&style=flat" alt="austinmusuya" /> </p>
 
