@@ -188,8 +188,8 @@
       <br>Spring
     </td>
               <td align="center" width="96">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="MSQLServer" />
-      <br>MSQLServer
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQL-Lite" />
