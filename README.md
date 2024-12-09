@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Health APP**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kali Linux**
 
 - 👯 I’m looking to collaborate on [Hotel Management App](https://github.com/AustinMusuya/HotelManagementApp)
 
