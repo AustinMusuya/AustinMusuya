@@ -114,8 +114,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="restapi" />
+      <br>REST APIs
     </td>
   </tr>
  <tr>
@@ -145,11 +145,11 @@
       <br>Express
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
@@ -172,7 +172,7 @@
       <br>Heroku
     </td>
             <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
               <td align="center" width="96">
@@ -180,7 +180,7 @@
       <br>Bash
     </td>
               <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
               <td align="center" width="96">
