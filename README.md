@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/austinmusuya" target="blank"><img src="https://img.shields.io/twitter/follow/austinmusuya?logo=twitter&style=for-the-badge" alt="austinmusuya" /></a> </p>
 
-- 🔭 I’m currently working on **Health APP**
+- 🔭 I’m currently working on **Events Management App**
 
 - 🌱 I’m currently learning **Kali Linux**
 
@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing](https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing)
 
-- ⚡ Fun fact:  **Kenya's tech powerhouse, Nairobi, often dubbed Africa’s "Silicon Savannah," is home to innovations like M-Pesa, the mobile money game-changer, and is a buzzing hub for fintech, healthtech, and agritech startups. 🔥**
+- ⚡ Fun fact:  **Kenya's tech powerhouse, Nairobi, often dubbed Africa’s "Silicon Savannah," is home to innovations like M-Pesa, the mobile money game-changer, and is a buzzing hub for fintech, health-tech, and agri-tech startups. 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
