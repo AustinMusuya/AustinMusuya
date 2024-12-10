@@ -141,7 +141,7 @@
       <br>Linux
     </td>
               <td align="center" width="96">
-        <img src="https://www.svgrepo.com/show/353724/express.svg" width="48" height="48" alt="Express" />
+        <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" width="48" height="48" alt="Express" />
       <br>Express
     </td>
               <td align="center" width="96">
