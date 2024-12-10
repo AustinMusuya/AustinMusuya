@@ -141,8 +141,8 @@
       <br>Linux
     </td>
               <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" width="48" height="48" alt="Express" />
-      <br>Express
+        <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" width="48" height="48" alt="Express Js" />
+      <br>Express Js
     </td>
               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
