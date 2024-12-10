@@ -196,6 +196,45 @@
       <br>SQL-lite
     </td>
  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+<!--         <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="48" height="48" alt="Flask" />
+      <br>Flask
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
+      <br>Heroku
+    </td>
+            <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+              <td align="center" width="96">
+        <img src="https://d33wubrfki0l68.cloudfront.net/45825999a370278a2d392daafce3e7a95de0fff2/3bada/img/logo/svg/full_colored_light.svg" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td> -->
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="RaspBerryPi" />
+      <br>RaspBerryPi
+    </td>
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" alt="Prettier" />
+      <br>Prettier
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+ </tr>
 </table>
 <br><br>
 
