@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
-- 💬 Ask me about **Node.js, Express.js, Axios**
+- 💬 Ask me about **Django, REST APIs, API-Design**
 
 - 📫 How to reach me **info@austinmusuya.com**
 
