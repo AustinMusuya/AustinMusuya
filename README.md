@@ -201,11 +201,11 @@
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       <br>Nginx
     </td>
-<!--         <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="48" height="48" alt="Es-Lint" />
+      <br>Es Lint
       </td>
-      </td>
+<!--       </td>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
       <br>Heroku
