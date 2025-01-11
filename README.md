@@ -13,17 +13,17 @@
 
 <p align="left"> <a href="https://twitter.com/austinmusuya" target="blank"><img src="https://img.shields.io/twitter/follow/austinmusuya?logo=twitter&style=for-the-badge" alt="austinmusuya" /></a> </p>
 
-- 🔭 I’m currently working on **Events Management App**
+- 🔭 I’m currently working on **E-Commerce API**
 
-- 🌱 I’m currently learning **Kali Linux**
+- 🌱 I’m currently learning **3 JS**
 
-- 👯 I’m looking to collaborate on [Hotel Management App](https://github.com/AustinMusuya/HotelManagementApp)
+- 👯 I’m looking to collaborate on [Event Management API](https://github.com/AustinMusuya/event_api_capstone)
 
 - 🤝 I’m looking for help with [Flask Blog Site](https://github.com/AustinMusuya/FlaskBlogSite)
 
 - 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
-- 💬 Ask me about **Django, REST APIs, API-Design**
+- 💬 Ask me about **Django,Django Rest-Framework, REST APIs, API-Design, API -Testing**
 
 - 📫 How to reach me **info@austinmusuya.com**
 
