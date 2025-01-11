@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
-- 💬 Ask me about **Django,Django Rest-Framework, REST APIs, API-Design, API -Testing**
+- 💬 Ask me about **Django, Django Rest-Framework, REST APIs, API-Design, API -Testing**
 
 - 📫 How to reach me **info@austinmusuya.com**
 
