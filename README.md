@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **E-Commerce API**
 
-- 🌱 I’m currently learning **3 JS**
+- 🌱 I’m currently learning **Three JS**
 
 - 👯 I’m looking to collaborate on [Event Management API](https://github.com/AustinMusuya/event_api_capstone)
 
