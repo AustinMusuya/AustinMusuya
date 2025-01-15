@@ -19,8 +19,6 @@
 
 - 👯 I’m looking to collaborate on [Event Management API](https://github.com/AustinMusuya/event_api_capstone)
 
-- 🤝 I’m looking for help with [Flask Blog Site](https://github.com/AustinMusuya/FlaskBlogSite)
-
 - 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
 - 💬 Ask me about **Django, Django Rest-Framework, REST APIs, API-Design, API -Testing**
