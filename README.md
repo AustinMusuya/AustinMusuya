@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **E-Commerce API**
 
-- 🌱 I’m currently learning **Three JS**
+- 🌱 I’m currently learning **Motoko & Web3**
 
 - 👯 I’m looking to collaborate on [Event Management API](https://github.com/AustinMusuya/event_api_capstone)
 
