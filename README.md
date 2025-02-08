@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/austinmusuya" target="blank"><img src="https://img.shields.io/twitter/follow/austinmusuya?logo=twitter&style=for-the-badge" alt="austinmusuya" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce API**
+- 🔭 I’m currently working on **dApps on ICP**
 
 - 🌱 I’m currently learning **Motoko & Web3**
 
