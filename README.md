@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Back-End+Developer;Transforming%20Ideas%20To%20Reality+🔧&center=true&width=500&height=50&color=00FF00"></a>
 </h3>
 
-<img align="center" width="1000" alt="Coding" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b7611xolm9c4du5syqu1umfqxz2qe62csutwmn99ltscq&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="center" width="1000" alt="Coding" src="https://media0.giphy.com/media/zXmbOaTpbY6mA/200.gif?cid=6c09b952gm157tu4u5fe99xf7difxkf1c53664mu2q75f2qa&ep=v1_internal_gif_by_id&rid=200.gif&ct=g">
 <h4 align="center"><em>Ideate, Build, Repeat</em></h4>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinmusuya&label=Profile%20views&color=0e75b6&style=flat" alt="austinmusuya" /> </p>
