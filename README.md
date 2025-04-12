@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/austinmusuya" target="blank"><img src="https://img.shields.io/twitter/follow/austinmusuya?logo=twitter&style=for-the-badge" alt="austinmusuya" /></a> </p>
 
-- 🔭 I’m currently working on **dApps on ICP**
+- 🔭 I’m currently working on **AI-AGENTS**
 
-- 🌱 I’m currently learning **Motoko & Web3**
+- 🌱 I’m currently learning **Machine Learning & Data Science**
 
 - 👯 I’m looking to collaborate on [Event Management API](https://github.com/AustinMusuya/event_api_capstone)
 
