@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 
-- 👯 I’m looking to collaborate on [Event Management API](https://github.com/AustinMusuya/event_api_capstone)
+- 👯 I’m looking to collaborate on [Revenue Tracker App](https://github.com/AustinMusuya/Earnlytics_Project.git)
 
 - 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
