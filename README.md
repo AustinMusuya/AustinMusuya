@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
-- 💬 Ask me about **REST APIs, API-Design, API -Testing**
+- 💬 Ask me about **REST APIs, AI-Agents**
 
 - 📫 How to reach me **info@austinmusuya.com**
 
