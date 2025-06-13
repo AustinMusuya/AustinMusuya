@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/austinmusuya" target="blank"><img src="https://img.shields.io/twitter/follow/austinmusuya?logo=twitter&style=for-the-badge" alt="austinmusuya" /></a> </p>
 
-- 🔭 I’m currently working on **Embedded C Projects**
+- 🔭 I’m currently working on **C for Embedded Systems Projects**
 
-- 🌱 I’m currently learning **Embedded C, MCUs**
+- 🌱 I’m currently learning **Microcontrollers**
 
 - 👯 I’m looking to collaborate on [Revenue Tracker App](https://github.com/AustinMusuya/Earnlytics_Project.git)
 
