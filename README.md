@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **REST APIs, AI-Agents**
 
-- 📫 How to reach me **info@austinmusuya.com**
+- 📫 How to reach me **amusuya57@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing](https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing)
 
