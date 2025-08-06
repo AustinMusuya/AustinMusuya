@@ -1,8 +1,12 @@
 <br/>
 <h2 align="center">Hi, I'm Austin Musuya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <h3 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Back-End+Developer;Transforming%20Ideas%20To%20Reality+🔧&center=true&width=500&height=50&color=00FF00"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+⚙️;Cloud+Engineer+%7C+AWS+Certified+☁️;Helping+Startups+Scale+on+the+Cloud+☁️&center=true&width=500&height=50&color=00FF00">
+  </a>
 </h3>
+
+
 
 <img align="center" width="1000" alt="Coding" src="https://media0.giphy.com/media/zXmbOaTpbY6mA/200.gif?cid=6c09b952gm157tu4u5fe99xf7difxkf1c53664mu2q75f2qa&ep=v1_internal_gif_by_id&rid=200.gif&ct=g">
 <h4 align="center"><em>Ideate, Build, Repeat</em></h4>
