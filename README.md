@@ -17,9 +17,9 @@
 
 <p align="left"> <a href="https://twitter.com/austinmusuya" target="blank"><img src="https://img.shields.io/twitter/follow/austinmusuya?logo=twitter&style=for-the-badge" alt="austinmusuya" /></a> </p>
 
-- 🔭 I’m currently working on **C for Embedded Systems Projects**
+- 🔭 I’m currently working on **Cloud-based Business Applications & Architectures**
 
-- 🌱 I’m currently learning **Microcontrollers**
+- 🌱 I’m currently learning **AWS solution design, cloud security, and scalable architecture for cost-efficient systems**
 
 - 👯 I’m looking to collaborate on [Revenue Tracker App](https://github.com/AustinMusuya/Earnlytics_Project.git)
 
