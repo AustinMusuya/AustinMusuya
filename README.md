@@ -28,8 +28,9 @@
 - 💬 Ask me about **REST APIs, AI-Agents, Cloud Architecture**
 
 - 📫 How to reach me **amusuya57@gmail.com**
+- 
+- 📄 Know about my experiences **[View My Résumé](https://drive.google.com/file/d/1tuMY-MFjieq01nUrou30FoggckGldrV4/view?usp=sharing)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing](https://drive.google.com/file/d/17KIOl5DBGC3IIbpk2O-DhVgLwyyoNw4u/view?usp=sharing)
 
 - ⚡ Fun fact:  **Kenya's tech powerhouse, Nairobi, often dubbed Africa’s "Silicon Savannah," is home to innovations like M-Pesa, the mobile money game-changer, and is a buzzing hub for fintech, health-tech, and agri-tech startups. 🔥**
 
