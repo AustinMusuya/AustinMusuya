@@ -28,7 +28,7 @@
 - 💬 Ask me about **REST APIs, AI-Agents, Cloud Architecture**
 
 - 📫 How to reach me **amusuya57@gmail.com**
-- 
+  
 - 📄 Know about my experiences **[View My Résumé](https://drive.google.com/file/d/1tuMY-MFjieq01nUrou30FoggckGldrV4/view?usp=sharing)**
 
 
