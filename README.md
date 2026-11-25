@@ -19,15 +19,15 @@
 
 - 🔭 I’m currently working on **Cloud-based Business Applications & Architectures**
 
-- 🌱 I’m currently learning **AWS solution design, cloud security, and scalable architecture for cost-efficient systems**
+- 🌱 I’m currently learning **Scalable architecture for cost-efficient cloud systems**
 
 - 👯 I’m looking to collaborate on [Revenue Tracker App](https://github.com/AustinMusuya/Earnlytics_Project.git)
 
 - 👨‍💻 All of my projects are available at [austinmusuya.com](https://austinmusuya.com/)
 
-- 💬 Ask me about **REST APIs, AI-Agents, Cloud Architecture**
+- 💬 Ask me about **System Design, AI Agents, Cloud Architecture**
 
-- 📫 How to reach me **amusuya57@gmail.com**
+- 📫 How to reach me: **amusuya57@gmail.com**
   
 - 📄 Know about my experiences **[View My Résumé](https://drive.google.com/file/d/1tuMY-MFjieq01nUrou30FoggckGldrV4/view?usp=sharing)**
 
