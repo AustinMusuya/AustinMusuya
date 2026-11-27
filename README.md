@@ -134,8 +134,8 @@
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
+      <br>Vscode
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -179,13 +179,13 @@
       <br>Postman
     </td>
         <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Fastapi" />
+      <br>Fastapi
       </td>
       </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
-      <br>Heroku
+        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
+      <br>Neovim
     </td>
             <td align="center" width="96">
         <!-- <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /> -->
@@ -226,19 +226,19 @@
         <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="48" height="48" />
       <br>Redis
       </td>
-<!--       </td>
+      </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
-      <br>Heroku
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br>Terraform
     </td>
             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
     </td>
               <td align="center" width="96">
-        <img src="https://d33wubrfki0l68.cloudfront.net/45825999a370278a2d392daafce3e7a95de0fff2/3bada/img/logo/svg/full_colored_light.svg" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td> -->
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+      <br>Npm
+    </td>
               <td align="center" width="96">
         <!-- <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="Jest" /> -->
           <img src="https://skillicons.dev/icons?i=jest" alt="icon" width="48" height="48" />
